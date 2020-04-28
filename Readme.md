@@ -3,6 +3,7 @@
 Just run
 
 > `yarn`
+
 > `yarn start` to start the app
 
 - Keep index.js file, do not touch it.
