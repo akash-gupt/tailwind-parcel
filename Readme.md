@@ -2,7 +2,8 @@
 
 Just run
 
-> yarn start to start the app
+> `yarn`
+> `yarn start` to start the app
 
 - Keep index.js file, do not touch it.
 - Write html file inside `app` folder.
